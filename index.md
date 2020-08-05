@@ -1,3 +1,3 @@
-Listado de grupos
+Listado de grupos de Telegram recopilados por el movimiento CoronaVirusMakers
 
-[Todo junto](todojunto.md)
+* [España](es.md)
