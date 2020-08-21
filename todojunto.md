@@ -1,3 +1,6 @@
+# Grupos de Telegram temáticos recopilados por el movimiento CoronaVirusMakers
+
+Si quieres contribuir a este listado, visita el [github](https://github.com/CoronavirusMakers/Telegram) y haznos un pull request o un issue.
 
 ## Grupos de trabajo temáticos (/temas) | Diseño (/diseno)
 

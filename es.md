@@ -1,5 +1,6 @@
-# Spain
+# Grupos de Telegram de España recopilados por el movimiento CoronaVirusMakers
 
+Si quieres contribuir a este listado, visita el [github](https://github.com/CoronavirusMakers/Telegram) y haznos un pull request o un issue.
 
 * [Coronavirus Makers](https://t.me/coronavirus_makers)
 

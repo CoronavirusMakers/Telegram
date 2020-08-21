@@ -1,11 +1,13 @@
-# Listado de grupos de Telegram recopilados por el movimiento CoronaVirusMakers
+# Grupos de Telegram recopilados por el movimiento CoronaVirusMakers
 
-# Por paises
+Si quieres contribuir a este listado, visita el [github](https://github.com/CoronavirusMakers/Telegram) y haznos un pull request o un issue.
+
+## Por paises
 
 * [España](es.md)
 * [Resto de países](resto.md)
 
-# Por temas
+## Por temas
 
 * Diseño
 	* [covidmakers3dvarios](https://t.me/covidmakers3dvarios)
